@@ -1,0 +1,44 @@
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\FORUM.DAL.dll.config
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\FORUM.DAL.dll
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\FORUM.DAL.pdb
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\obj\Debug\FORUM.DAL.dll
+C:\Users\Annette\Documents\Visual Studio 2015\Projects\FORUM\FORUM.DAL\obj\Debug\FORUM.DAL.pdb
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\FORUM.DAL.dll.config
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\FORUM.DAL.dll
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\FORUM.DAL.pdb
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\obj\Debug\FORUM.DAL.csproj.AssemblyReference.cache
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\obj\Debug\FORUM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\obj\Debug\FORUM.DAL.dll
+C:\Users\evgen\Source\Repos\Forum_mvc\FORUM.DAL\obj\Debug\FORUM.DAL.pdb
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\FORUM.DAL.dll.config
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\FORUM.DAL.dll
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\FORUM.DAL.pdb
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\obj\Debug\FORUM.DAL.csproj.AssemblyReference.cache
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\obj\Debug\FORUM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\obj\Debug\FORUM.DAL.csproj.CopyComplete
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\obj\Debug\FORUM.DAL.dll
+C:\Users\evgen\Source\Repos\MyForum\FORUM.DAL\obj\Debug\FORUM.DAL.pdb
